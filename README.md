@@ -14,8 +14,8 @@ https://miyajimas.github.io/puzzle-game/
   片方のキャラが壁にぶつかっている間にもう片方を動かすといった、ズレを利用して解くパズル性を盛り込みました。
 
 使用技術
-- HTML5
-- CSS3 (Flexboxによるレイアウト)
+- HTML
+- CSS (Flexboxによるレイアウト)
 - JavaScript (Vanilla JS)
 
 開発の感想
