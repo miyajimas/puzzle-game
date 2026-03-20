@@ -4,3 +4,13 @@
 #soko2{
   margin-left: 20px;
 }
+#reset{
+  background-color: black;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px 25px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
